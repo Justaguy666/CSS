@@ -1,0 +1,31 @@
+    * CSS, Cascading Style Sheets, is a stylesheet language which is used to describe the look and formatting of HTML files.
+    In the other hand, while HTML defines the structure and content of a web page, CSS is responsible for shaping the
+    user interface and enhance the user experience by controlling the visual apprearance.
+
+    * The functions of CSS:
+    - Style the color, font, and size of text and elements.
+    - Control layout, including margin, padding, borders and positioning.
+    - Add animations and transitions for dynamic interactions.
+    - Enable responsive design, making websites display properly on all screen sizes and devices.
+    - Improve consistency and reusability across multiple web pages.
+
+    * There are 3 ways to dip CSS into HTML:
+    - Inline CSS - Use directly in HTML tags.
+    - Internal CSS - Use the pairs of <style> tags in HTML file.
+    - External CSS - Write CSS code in a .css file and link to HTML file through <link> tags.
+
+    * The key functions:
+    - Inheritance and Cascading
+        + Style can be passed down from parent to child elements.
+        + When multiple styles apply to an element, CSS follows a priority system (specificity, importance, 
+        and other source order).
+    - Pseudo-classes
+        + Allow styling elements based on their state or position.
+        + Example: :hover, :first-child, :nth-child().
+    - Media queries: Make websites responsive by applying styles based on device screen size, resolution, or orientation.
+    - Flexbox and Grid:
+        + Provide powerful layout models for building modern, flexible, and adaptive user interfaces.
+        + Flexbox is best for one-dimensional layouts; Grid is ideal for two-dimensional designs.
+
+    * CSS is an essential component of mordern web development. It transforms plain HTML into visually appealing, professional,
+    and user-friendly websites.
